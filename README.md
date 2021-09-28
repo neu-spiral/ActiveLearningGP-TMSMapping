@@ -8,13 +8,13 @@ for the next stimulation.
 <img src="https://github.com/Faghihpirayesh/ActiveLearningGP/blob/main/figures/animation.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="300" />
 </h1>
 
-
+****
 ### What is this repository for? ###
 
 * Implementation of papers:
   * https://dl.acm.org/doi/pdf/10.1145/3389189.3389202
   * https://ieeexplore.ieee.org/iel7/7333/9363468/09515996.pdf
-
+****
 ### Dependencies ###
 
 * python 3.9.6
@@ -22,7 +22,7 @@ for the next stimulation.
 * pandas 1.3.3
 * scikit-learn 1.0
 
-
+****
 ### Description ###
 
 * data:
@@ -55,9 +55,9 @@ Outputs: Interpolated maps, map volume, map area, mean amplitude, center of grav
 
 
 
-
+****
  
-### cite ###
+### Citation ###
 * Faghihpirayesh, R., Imbiriba, T., Yarossi, M., Tunik, E., Brooks, D. and Erdoğmuş, D., 2020, June. Motor cortex mapping using active gaussian processes. In Proceedings of the 13th ACM International Conference on PErvasive Technologies Related to Assistive Environments (pp. 1-7).
 
 
