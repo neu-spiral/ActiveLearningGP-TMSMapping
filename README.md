@@ -5,7 +5,7 @@ Gaussian processes and use active learning to select optimum locations
 for the next stimulation.
 
 <h1 align="center">
-<img src="https://github.com/Faghihpirayesh/ActiveLearningGP/blob/main/figures/animation.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="420" height="400" />
+<img src="https://github.com/neu-spiral/ActiveLearningGP-TMSMapping/blob/master/figures/animation.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="420" height="400" />
 </h1>
 
 ****
